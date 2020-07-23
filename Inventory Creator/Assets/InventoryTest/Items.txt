@@ -1,0 +1,31 @@
+1	1	Blue Blade	1	Blade1	no	1
+1	2	Dense Blade	1	Blade2	no	1
+1	3	Flaming Blade	1	Blade3	no	1
+1	4	Dong Blade	1	Blade4	no	1
+1	5	Thicc Blade	1	Blade5	no	1
+1	6	Inferno Blade	1	Blade6	no	1
+1	7	Potato Peeler Blade	1	Blade7	no	1
+1	8	Skinning Blade	1	Blade8	no	1
+1	9	Filleting Blade	1	Blade9	no	1
+1	10	Bleeding Blade	1	Blade10	no	1
+2	1	Yellow Handle	1	Handle1	no	2.5
+2	2	Heavy Handle	1	Handle2	no	2.5
+2	3	Cursed Handle	1	Handle3	no	2.5
+2	4	Bound Handle	1	Handle4	no	2.5
+2	5	Leather Bound Handle	1	Handle5	no	2.5
+2	6	Dong Handle	1	Handle6	no	2.5
+2	7	Flaming Handle	1	Handle7	no	2.5
+2	8	Dark Handle	1	Handle8	no	2.5
+2	9	Woven Handle	1	Handle9	no	2.5
+2	10	Painful Handle	1	Handle10	no	2.5
+3	1	Red Guard	1	Hilt1	no	4
+3	2	Blood Guard	1	Hilt2	no	4
+3	3	Heavy Guard	1	Hilt3	no	4
+3	4	Refined Guard	1	Hilt4	no	4
+3	5	Nature Guard	1	Hilt5	no	4
+3	6	Dong Guard	1	Hilt6	no	4
+3	7	Glowing Guard	1	Hilt7	no	4
+3	8	Serrated Guard	1	Hilt8	no	4
+3	9	Aqua Guard	1	Hilt9	no	4
+3	10	Slim Guard	1	Hilt10	no	4
+999	1	Test	64	Test1	Just For Testing Purposes	8

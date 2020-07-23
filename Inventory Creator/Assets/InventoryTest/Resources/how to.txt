@@ -1,0 +1,4 @@
+reset
+set to sprite
+advanced dropdown
+read/write enabled checked
